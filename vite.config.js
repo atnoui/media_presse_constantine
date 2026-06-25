@@ -9,5 +9,5 @@ import react from "@vitejs/plugin-react";
 // "<username>.github.io") or to Vercel/Netlify, leave base as "/".
 export default defineConfig({
   plugins: [react()],
-  base: "/media-presse-constantine/",
+  base: "/media_presse_constantine/",
 });
